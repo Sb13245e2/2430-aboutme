@@ -26,15 +26,16 @@ h1, h2, h3 {
 }
 
 h1 {
-    font-size: 10em;
+    font-size: 6em;
     font-weight: 900;
     text-shadow: 0.02em 0.04em #403D58;
     color: deeppink;
 }
 
 h2 {
-    border-bottom: 0.1em solid #66D7D1;
-    padding: 0.25em;
+    font-style: italic;
+    border-bottom: 0.1em solid #d76666;
+    padding: 0.5em;
     margin: 1.6em 0;
 }
 
@@ -43,7 +44,7 @@ section p {
 }
 
 .project {
-    background-color: #403D58;
+    background-color: #52583d;
     color: #F2EFEA;
     padding: 0.5em 2em;
     border-radius: 0.5em;
